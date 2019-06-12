@@ -7,7 +7,7 @@ This challenge must be completed in python (any form), and we recommend the use 
 
 ## Questions
 1. Which brewery is most popular? Which is the highest rated? Why?
-2. Plot the most popular breweries average review over time.
+2. Plot the most popular brewery's average review over time.
 3. If you had to pick 3 breweries to recommend using only this data, which would you pick?
 4. Which of the factors (aroma, taste, appearance, palette), are most important in determining the overall quality of a beer?
 5. If I typically enjoy a beer due to its aroma and appearance, which beer style should I try?
