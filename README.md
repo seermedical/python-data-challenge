@@ -1,6 +1,7 @@
 # python-data-challenge
-This challenge is designed to evaluate not just your python experience, but also your style and problem solving methods.
-We are far more interested in **why** you chose to do things in a particular way, and, given unlimited time, how they might be done better. Syntax is far less important than logic, so if you get stuck on a particular thing, simply explain what you would have done given more time. We will ask questions about what you've done, and why, in the interview, so explainability is important.
+This challenge is designed to evaluate not just your python experience, but also your style and problem solving methods. It is designed to be challenging for both beginners and experts alike, so don't be disheartened if you're not able to answer everything, our goal is to understand not just where your skills are, but also how you go about solving a problem.
+
+We are far more interested in **why** you chose to do things in a particular way, and, given unlimited time, how they might be done better. Syntax is far less important than logic, so if you get stuck on a particular thing, simply explain what you would have done given more time. We will ask questions about what you've done, and why, in the interview, so explainability is important. 
 
 This challenge must be completed in python (any form), and we recommend the use of pandas.
 
