@@ -3,7 +3,7 @@ This challenge is designed to evaluate not just your python experience, but also
 
 We are far more interested in **why** you chose to do things in a particular way, and, given unlimited time, how they might be done better. Syntax is far less important than logic, so if you get stuck on a particular thing, simply explain what you would have done given more time. We will ask questions about what you've done, and why, in the interview, so explainability is important. 
 
-This challenge must be completed in python (any form), and we recommend the use of pandas, however any python package is acceptable. Please submit your code and answers via email for review.
+This challenge must be completed in python (any form), and we recommend the use of pandas, however any python package is acceptable. Please submit your code and answers via email for review. The zip file in this repository contains a large csv with user beer reviews, it has all the data you need to complete the questions below.
 
 
 ## Questions
